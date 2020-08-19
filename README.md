@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I'm Khuyen 👋
 
 <!--
 **khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

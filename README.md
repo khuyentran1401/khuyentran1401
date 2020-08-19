@@ -20,3 +20,6 @@
 <a href="https://github.com/khuyentran1401/Web-Scrapping-Wikipedia">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=Web-Scrapping-Wikipedia" />
 </a>
+<a href="https://github.com/khuyentran1401/Speed-Dating">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=Speed-Dating" />
+</a>

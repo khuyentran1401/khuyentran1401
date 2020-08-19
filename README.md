@@ -14,11 +14,9 @@
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=machine-learning-articles)](https://github.com/khuyentran1401/machine-learning-articles)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/khuyentran1401/Machine-learning-pipeline">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=Machine-learning-pipeline" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/khuyentran1401/Web-Scrapping-Wikipedia">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=Web-Scrapping-Wikipedia" />
 </a>

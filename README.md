@@ -4,8 +4,9 @@
 **khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 My superpower is quickly get into the flow state once I start working 
-- 🌱 I’m currently learning, growing, and sharing a little bit of my knowledge to the world everyday
+- :zap: I love math, programming, data science, and books
+- 🌱 I’m addicted to learning and growing every day
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@khuyentran1476)
   - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)

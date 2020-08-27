@@ -15,5 +15,6 @@
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Check out my Top Posts on Medium!
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/2" alt="Recent Article 2"> 
+  <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/1" alt="Recent Article 1"></a> 
+  <br><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/2" alt="Recent Article 2"></a>
+  

@@ -12,7 +12,7 @@
   - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
   - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
-  - :dart: [Projects](https://github.com/khuyentran1401/khuyentran1401.github.io)
+  - :dart: [Projects](https://khuyentran1401.github.io/)
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 

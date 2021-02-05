@@ -11,7 +11,7 @@
   - :bulb: [Medium articles](https://medium.com/@khuyentran1476)
   - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
-  - ::computer:	[Book time with me](https://booktime.xyz/p/khuyen-tran)
+  - :computer:	[Book time with me](https://booktime.xyz/p/khuyen-tran)
   - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
   - :dart: [Projects](https://khuyentran1401.github.io/)
 

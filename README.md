@@ -7,7 +7,8 @@
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
-- :pencil2:	I am current learning D3.js
+- :nerd_face: I like to solve really HARD and interesting problems
+- :pencil2:	I am current learning FastAPI and Javascript
 - 📫 How to find me: 
   - :computer:	[Book time with me](https://booktime.xyz/p/khuyen-tran)   
   - :bulb: [Medium articles](https://medium.com/@khuyentran1476)

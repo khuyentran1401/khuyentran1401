@@ -26,4 +26,9 @@
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/2" alt="Recent Article 2">
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/3" alt="Recent Article 3">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/4" alt="Recent Article 4">
+    
+### Check out packages I created
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=top-github-scraper)](https://github.com/khuyentran1401/top-github-scraper)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=rich-dataframe)](https://github.com/khuyentran1401/rich-dataframe)
+
 

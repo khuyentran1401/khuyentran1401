@@ -1,3 +1,10 @@
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1]: [Twitter](https://twitter.com/KhuyenTran16)
+
+
+
 ### Hi there. I'm Khuyen 👋
 
 <!--
@@ -8,13 +15,17 @@
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - :pencil2:	I am current learning FastAPI 
-- 📫 How to find me: 
-  - :computer:	[Book time with me](https://booktime.xyz/p/khuyen-tran)   
+- Connect with me on:
+  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+  - [![alt text][1.1]][1][Twitter](https://twitter.com/KhuyenTran16)
+  - :computer:	[Book time with me](https://booktime.xyz/p/khuyen-tran)  
+- 📫 Learn more about me on:  
   - :bulb: [Medium articles](https://medium.com/@khuyentran1476)
   - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
   - :dart: [Projects](https://khuyentran1401.github.io/)
   - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
+
+
   
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 

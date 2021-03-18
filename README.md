@@ -1,6 +1,6 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: [Twitter](https://twitter.com/KhuyenTran16)
 
 
@@ -17,7 +17,7 @@
 - :pencil2:	I am current learning FastAPI 
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
-  - [![alt text][1.1]][1][Twitter](https://twitter.com/KhuyenTran16)
+  - [![alt text][1.2]][1][Twitter](https://twitter.com/KhuyenTran16)
   - :computer:	[Book time with me](https://booktime.xyz/p/khuyen-tran)  
 - 📫 Learn more about me on:  
   - :bulb: [Medium articles](https://medium.com/@khuyentran1476)

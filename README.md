@@ -38,8 +38,8 @@
     
 ### Packages I created
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=top-github-scraper)](https://github.com/khuyentran1401/top-github-scraper)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=rich-dataframe)](https://github.com/khuyentran1401/rich-dataframe)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=strip_interactive)](https://github.com/khuyentran1401/strip_interactive)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=rich-dataframe)](https://github.com/khuyentran1401/rich-dataframe)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=strip_interactive)](https://github.com/khuyentran1401/strip_interactive)
 
 
 

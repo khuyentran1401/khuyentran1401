@@ -17,7 +17,6 @@
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/KhuyenTran16)
-  - :computer:	[Book time with me](https://booktime.xyz/p/khuyen-tran)  
 - 📫 Learn more about me on:  
   - :bulb: [Medium](https://medium.com/@khuyentran1476)
   - :pencil2: [Data Science Simplified](https://mathdatasimplified.com/)

@@ -36,6 +36,7 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/4" alt="Recent Article 4">
     
 ### Packages I created
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=data-science-template)](https://github.com/khuyentran1401/data-science-template) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=top-github-scraper)](https://github.com/khuyentran1401/top-github-scraper) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=python_snippet)](https://github.com/khuyentran1401/python_snippet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khuyentran1401&repo=strip_interactive)](https://github.com/khuyentran1401/strip_interactive)

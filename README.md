@@ -20,8 +20,7 @@
 - 📫 Learn more about me on:  
   - :bulb: [Medium](https://medium.com/@khuyentran1476)
   - :pencil2: [Data Science Simplified](https://mathdatasimplified.com/)
-  - :dart: [Projects](https://khuyentran1401.github.io/)
-  - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
+  - :video_camera: [YouTube](https://www.youtube.com/channel/UCNMawpMow-lW5d2svGhOEbw)
 
 
   

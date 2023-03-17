@@ -22,16 +22,17 @@
   - :video_camera: [YouTube](https://www.youtube.com/channel/UCNMawpMow-lW5d2svGhOEbw)
 
 
-  
+### Stats
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khuyentran1401&theme=dracula)
 
 ![](https://api.githubtrends.io/user/svg/khuyentran1401/langs?time_range=one_year&include_private=True&theme=classic)
 
-### Service
-I have hands-on experience with 500+ open-source tools related to data science and Python and understand the current trends and key features that appeal to users. [Book a session with me](https://calendly.com/khuyentran1476/product-feedback) for feedback on your product.
+### Services
+Are you struggling to understand your target audience's perception of your data science or Python product/feature? As an expert with hands-on experience using over 500 open-source tools, I have a thorough understanding of the current trends and the key features that appeal to users. [Book a session with me](https://calendly.com/khuyentran1476/product-feedback) to gain insights into how your product is perceived and identify potential areas for improvement.
+
+![people (2)](https://user-images.githubusercontent.com/49108771/225968126-fb6ee6a6-fbde-4d87-af02-0ed7782352c2.png)
+
+If I find your product impressive after the session, I will showcase it to my extensive network of over 80k followers on LinkedIn, 30k followers on Medium, and 3k+ email subscribers in my daily Python tips.
 
 
 ### Check out my latest articles

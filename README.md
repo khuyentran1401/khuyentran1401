@@ -11,7 +11,6 @@
 **khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@khuyentran1476) and [daily data science tips](https://mathdatasimplified.com/).
 - Connect with me on:
@@ -30,6 +29,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khuyentran1401&theme=dracula)
 
 ![](https://api.githubtrends.io/user/svg/khuyentran1401/langs?time_range=one_year&include_private=True&theme=classic)
+
+### Service
+I have hands-on experience with 500+ open-source tools related to data science and Python and understand the current trends and key features that appeal to users. [Book a session with me](https://calendly.com/khuyentran1476/product-feedback) for feedback on your product.
 
 
 ### Check out my latest articles

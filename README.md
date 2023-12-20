@@ -3,16 +3,14 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: [Twitter](https://twitter.com/KhuyenTran16)
 
-
+[<img src="Social media_facebook.jpg">](https://mathdatasimplified.com/)
 
 ### Hi there. I'm Khuyen 👋
 
 <!--
 **khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@khuyentran1476) and [daily data science tips](https://mathdatasimplified.com/).
+- :earth_africa: I have shared over 800 daily Python tips on [Data Science Simplified](https://mathdatasimplified.com/).
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1401/)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/KhuyenTran16)
@@ -26,13 +24,6 @@
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=omni&hide_rank=false&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://api.githubtrends.io/user/svg/khuyentran1401/langs?time_range=one_year&include_private=True&theme=classic)
-
-<!-- ### Services
-Are you struggling to understand your target audience's perception of your data science or Python product/feature? As an expert with hands-on experience using over 500 open-source tools, I have a thorough understanding of the current trends and the key features that appeal to users. [Book a session with me](https://calendly.com/khuyentran1476/product-feedback) to gain insights into how your product is perceived and identify potential areas for improvement.
-
-![people (2)](https://user-images.githubusercontent.com/49108771/225968126-fb6ee6a6-fbde-4d87-af02-0ed7782352c2.png)
-
-If I find your product impressive after the session, I will showcase it to my extensive network of over 80k followers on LinkedIn, 30k followers on Medium, and 3k+ email subscribers in my daily Python tips. -->
 
     
 ### Packages I created

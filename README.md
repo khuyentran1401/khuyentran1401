@@ -23,7 +23,7 @@
 
 
 ### Stats
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=dracula&hide_rank=false&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=omni&hide_rank=false&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://api.githubtrends.io/user/svg/khuyentran1401/langs?time_range=one_year&include_private=True&theme=classic)
 
@@ -34,13 +34,6 @@ Are you struggling to understand your target audience's perception of your data 
 
 If I find your product impressive after the session, I will showcase it to my extensive network of over 80k followers on LinkedIn, 30k followers on Medium, and 3k+ email subscribers in my daily Python tips. -->
 
-
-### Check out my latest articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0"> 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/1" alt="Recent Article 1">
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/2" alt="Recent Article 2">
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/3" alt="Recent Article 3">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/4" alt="Recent Article 4">
     
 ### Packages I created
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=khuyentran1401&repo=data-science-template)](https://github.com/khuyentran1401/data-science-template)

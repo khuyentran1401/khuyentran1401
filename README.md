@@ -3,7 +3,7 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: [Twitter](https://twitter.com/KhuyenTran16)
 
-[<img src="Social media_facebook.jpg">](https://codecut.ai/)
+[<img src="codecut.jpg">](https://codecut.ai/)
 
 ### Hi there. I'm Khuyen 👋
 

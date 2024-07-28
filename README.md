@@ -3,20 +3,20 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: [Twitter](https://twitter.com/KhuyenTran16)
 
-[<img src="Social media_facebook.jpg">](https://mathdatasimplified.com/)
+[<img src="Social media_facebook.jpg">](https://codecut.ai/)
 
 ### Hi there. I'm Khuyen 👋
 
 <!--
 **khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- :earth_africa: I have shared over 800 daily Python tips on [Data Science Simplified](https://mathdatasimplified.com/).
+- :earth_africa: I have shared over 800 daily Python tips on [CodeCut](https://codecut.ai/).
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1401/)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/KhuyenTran16)
-- 📫 Learn more about me on:  
+- 📫 Learn more about me on:
+  - :pencil2: [CodeCut](https://codecut.ai/)
   - :bulb: [Medium](https://medium.com/@khuyentran1476)
-  - :pencil2: [Data Science Simplified](https://mathdatasimplified.com/)
   - :video_camera: [YouTube](https://www.youtube.com/channel/UCNMawpMow-lW5d2svGhOEbw)
 
 

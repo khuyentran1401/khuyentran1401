@@ -1,0 +1,42 @@
+name: Snake
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+
+# This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
+
+  push:
+    branches:
+    - master
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3.1.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-contribution-grid-snake.svg?color_snake=pink
+            github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=pink
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: snake
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

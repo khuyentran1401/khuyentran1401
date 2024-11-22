@@ -21,10 +21,14 @@
 
 
 ### Stats
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=omni&hide_rank=false&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://api.githubtrends.io/user/svg/khuyentran1401/langs?time_range=one_year&include_private=True&theme=classic)
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=omni&hide_rank=false&PAT_1">
+</p>
 
+<a href="https://github.com/khuyentran1401#gh-light-mode-only" align="center">
+  <img alt="GitHub Snake Light" src="https://github.com/khuyentran1401/khuyentran1401/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</a>
     
 ### Packages I created
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=khuyentran1401&repo=data-science-template)](https://github.com/khuyentran1401/data-science-template)

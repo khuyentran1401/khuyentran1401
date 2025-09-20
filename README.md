@@ -12,7 +12,7 @@
 -->
 - 🌍 I’ve shared 800+ daily Python tips on [CodeCut](https://codecut.ai/?utm_source=github&utm_medium=github_profile&utm_campaign=aboutme).  
 - 📖 Author of [Production-Ready Data Science: From Prototyping to Production with Python](https://codecut.ai/production-ready-data-science/?utm_source=github&utm_medium=github_profile&utm_campaign=aboutme).  
-- Connect with me:
+- Connect with me on:
   - [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1401/)
   - [Twitter](https://twitter.com/KhuyenTran16) 
 
